@@ -8,7 +8,8 @@ def initialize(brand)
 end
 
   def cobble
-    puts "Flipping the page...wow, you read fast!"
+    condition = "new"
+    puts "Your shoe is good as new!"
 end
 
 end # end of class Shoe
