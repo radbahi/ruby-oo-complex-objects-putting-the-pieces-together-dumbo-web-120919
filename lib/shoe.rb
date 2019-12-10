@@ -11,4 +11,4 @@ end
     puts "Flipping the page...wow, you read fast!"
 end
 
-end # end of class Book
+end # end of class Shoe
